@@ -16,3 +16,4 @@ let designation: string = "Sales Manager";
 let finalstr: string = `${names} is woring as ${designation}`;
 
 console.log(finalstr);
+Testing
